@@ -26,15 +26,15 @@ const RESOURCES = {"assets/AssetManifest.json": "801125fca546f506babac9af4ec061b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"PugPad.html": "ae667d5e0cb1b091d50df1d7869c3d5d",
-"/": "ae667d5e0cb1b091d50df1d7869c3d5d",
-"main.dart.js": "0a9422eea1e7c3c7a6a6995e4ec3d22c",
+"index.html": "6e874098c8c787f870f3b23aedd8be79",
+"/": "6e874098c8c787f870f3b23aedd8be79",
+"main.dart.js": "974c68c63d394c3acac5cd7e7c5cc0e2",
 "manifest.json": "9d2427ffc74ce2a9008afd2a6e47e595",
 "version.json": "191cbfe8230e43dc03557baff259e719"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
-"PugPad.html",
+"index.html",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 
